@@ -1,3 +1,3 @@
-![Alt text](https://user-images.githubusercontent.com/16068311/30547059-36f2d874-9c86-11e7-8705-9f795ea5f0a1.png?raw=true "Fish Dish Logo")
+![Alt text](https://user-images.githubusercontent.com/1878314/73873949-85ee7b00-484a-11ea-860d-a3a5d146f1a9.png)
 # Fish-Dish
 Resources for Fish Dish
